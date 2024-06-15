@@ -4,11 +4,9 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-<<<<<<< HEAD
+
     "content-hash": "87bd9230b74e048756c0d5519bde5f98",
-=======
-    "content-hash": "5047d6e7d2c3ff636c20b81aa1672235",
->>>>>>> af340d6 (Remove unused composer dependencies: Sanctum and Ziggy)
+
     "packages": [
         {
             "name": "bacon/bacon-qr-code",
